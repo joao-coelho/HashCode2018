@@ -5,5 +5,5 @@
 * [João Miguel](https://github.com/CaptainJRoy)
 * [MIguel Silva](https://github.com/MiguelSilva96)
 
--> Practice Problem
--> Online Qualification Round
+1. Practice Problem
+2. Online Qualification Round
