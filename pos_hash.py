@@ -61,7 +61,7 @@ class Car:
 #       Compute solution        #
 #################################
 def compute():
-    global T, cars, free_cars
+    global T, rides, cars, free_cars
     rides.sort(key = lambda x: x.e_start, reverse = False)
     free_cars = list(cars)
     i = 0
